@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcowing)](https://github.com/anuraghazra/github-readme-stats)
 
+Technologies I enjoy:
+
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=Redux&logoColor=white" />  </a>
